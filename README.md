@@ -6,3 +6,5 @@ A user has picked a destination and a travel site and wants to get information a
 * Benjamin Østerø Højgaard
 * Sebastian Cock Harvej   
 [Camunda diagram](#Camunda.PNG)
+
+![alt text](#Camunda.PNG)

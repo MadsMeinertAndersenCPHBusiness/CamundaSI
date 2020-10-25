@@ -7,4 +7,4 @@ A user has picked a destination and a travel site and wants to get information a
 * Sebastian Cock Harvej   
 [Camunda diagram](#Camunda.PNG)
 
-![alt text](#Camunda.PNG)
+![alt text](https://github.com/MadsMeinertAndersenCPHBusiness/CamundaSI/blob/main/Camunda.PNG)

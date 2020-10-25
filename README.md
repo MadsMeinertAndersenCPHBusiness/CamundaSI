@@ -11,4 +11,4 @@ A user has picked a destination and a travel site and wants to get information a
 * Mads Meinert Andersen
 * Malene Hansen
 * Benjamin Østerø Højgaard
-* Sebastian Cock Harvej  
+* Sebastian Kock Harvej  
